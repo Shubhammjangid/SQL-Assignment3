@@ -1,0 +1,2 @@
+# SQL-Assignment3
+UNION , UNION ALL , MULTI INNER JOIN , PROCEDURE , VIEW( LeftJoin , RightJoin) and PAGINATION
